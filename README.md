@@ -18,27 +18,8 @@ Designed with a focus on modularity, resilience, and scientific adaptability, VA
 
 
 🛠️ System Architecture
-                +----------------------+
-                |   Raspberry Pi 5     |
-                | (High-Level Control) |
-                +----------+-----------+
-                           |
-        +------------------+------------------+
-        |                                     |
-+---------------+                    +----------------+
-|  Pixhawk / MCU |                  |   Sensors       |
-| (Low-Level Ctrl)|                 | IMU, Depth, Cam |
-+-------+--------+                  +--------+-------+
-        |                                     |
-        +-------------+-----------------------+
-                      |
-               +------+------+
-               |   ESCs      |
-               +------+------+
-                      |
-               +------+------+
-               | Thrusters x5|
-               +-------------+
+  <img width="698" height="433" alt="image" src="https://github.com/user-attachments/assets/a7da182e-e30e-41c4-a676-855d6934a044" />
+
 
                
 ⚙️ Technical Specifications
@@ -101,26 +82,7 @@ External:
 
 
 📦 Project Structure
-VARUNA/
-│
-├── hardware/
-│   ├── CAD/
-│   ├── PCB/
-│   └── mechanical/
-│
-├── software/
-│   ├── control/
-│   ├── vision/
-│   └── communication/
-│
-├── docs/
-│   ├── technical_report.pdf
-│   ├── design_sheets/
-│   └── diagrams/
-│
-├── simulations/
-│
-└── README.md
+<img width="608" height="418" alt="image" src="https://github.com/user-attachments/assets/f1f4e8cb-7c28-4549-af6c-468fc0545dc8" />
 
 🧪 Applications
 🌊 Marine Research & Surveys
