@@ -81,8 +81,7 @@ External:
 ⚙️ Low-level firmware on MCU
 
 
-📦 Project Structure
-<img width="608" height="418" alt="image" src="https://github.com/user-attachments/assets/f1f4e8cb-7c28-4549-af6c-468fc0545dc8" />
+
 
 🧪 Applications
 🌊 Marine Research & Surveys
