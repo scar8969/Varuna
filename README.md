@@ -52,6 +52,9 @@ Thrusters	5 (BLDC-based)
 Compute	Raspberry Pi 5 + Pixhawk + Teensy
 Sensors	IMU, Depth, Temperature, Camera
 
+<img width="554" height="94" alt="image" src="https://github.com/user-attachments/assets/b8459a72-820f-47f6-82e5-d43baa8752b2" />
+
+
 🔩 Propulsion System
 5 Thrusters:
 2 Horizontal → Surge & Yaw
@@ -118,7 +121,6 @@ VARUNA/
 ├── simulations/
 │
 └── README.md
-
 
 🧪 Applications
 🌊 Marine Research & Surveys
